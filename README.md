@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://github.com/sanketmhaiskar"><img src="https://img.shields.io/github/followers/sanketmhaiskar?label=Follow&style=social"></a>
   <a href="https://www.linkedin.com/in/sanketmhaiskar"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@sanket_mhaiskar"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white"></a>
   <a href="mailto:sanketmhaiskar@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
